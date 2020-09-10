@@ -28,7 +28,7 @@ This library provides the following functionality:
 ## Installation ##
 Installation is pretty simple:
 
-	https://www.nuget.org/packages/TrexDcas.Sht1x
+	NuGet (https://www.nuget.org/packages/TrexDcas.Sht1x)
 
 ## Usage ##
 When instantiating a SHT1x object, the following default values are used if not specified:
