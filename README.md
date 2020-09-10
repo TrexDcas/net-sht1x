@@ -26,9 +26,7 @@ This library provides the following functionality:
     - Change the resolution of measurements, High (14-bit temperature and 12-bit humidity) or Low (12-bit temperature and 8-bit humidity)
 
 ## Installation ##
-Installation is pretty simple:
-
-[NuGet](https://www.nuget.org/packages/TrexDcas.Sht1x)
+Installation is pretty simple, just head to [NuGet](https://www.nuget.org/packages/TrexDcas.Sht1x) and grab the command that suits your package manager tool. 
 
 ## Usage ##
 When instantiating a SHT1x object, the following default values are used if not specified:
