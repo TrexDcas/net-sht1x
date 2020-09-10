@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7cf9615-cfc0-4001-8948-a46ca612988d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TrexDcas.Sht1x/GPIO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrexDcas.Sht1x/GpioCore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrexDcas.Sht1x/IGpio.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrexDcas.Sht1x/Sht1x.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/Class1.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/GpioCore.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/Sht1x.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/IGpio.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/GipoConstants.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x/GPIO.cs" />
+        <option value="$PROJECT_DIR$/TrexDcas.Sht1x.Samples.Console/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hK0WxxCKsIan7orYHxRdOyHYB9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7cf9615-cfc0-4001-8948-a46ca612988d" name="Default Changelist" comment="" />
+      <created>1599744511927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599744511927</updated>
+      <workItem from="1599744520504" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="275" key="Rider.ProjectTemplateDialog.Size" timestamp="1599744736734">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="275" key="Rider.ProjectTemplateDialog.Size/0.23.1680.1027@0.23.1680.1027" timestamp="1599744736734" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1599744851897">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1599744851897" />
+  </component>
+</project>

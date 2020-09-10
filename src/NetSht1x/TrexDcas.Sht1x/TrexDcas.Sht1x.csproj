@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.9</PackageVersion>
+        <Title>Trex.Sht1x</Title>
+        <Authors>Ali Özgür</Authors>
+        <Description>The net-sht1x package is a .NET Standard 2 library used to communicate and control the Sensirion SHT1x series of temperature and humidity sensors</Description>
+        <PackageProjectUrl>https://github.com/TrexDcas/net-sht1x</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/TrexDcas/net-sht1x/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/TrexDcas/net-sht1x</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Serilog" Version="2.10.0" />
+      <PackageReference Include="System.Device.Gpio" Version="1.0.0" />
+    </ItemGroup>
+
+</Project>
